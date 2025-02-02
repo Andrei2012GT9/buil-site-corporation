@@ -7,7 +7,7 @@ sections:
       text: Buil Site Corporation
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: '“Building websites, creating connections.”'
     text: >
       At **Buil Site Corp**, we specialize in creating affordable, modern
       websites that bring your ideas to life. Whether you need a professional
