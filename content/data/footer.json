@@ -48,7 +48,7 @@
                 "type": "Link"
             },
             {
-                "label": "Blog",
+                "label": "Questions",
                 "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
