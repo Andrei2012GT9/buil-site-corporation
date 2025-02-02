@@ -30,7 +30,7 @@
         {
             "type": "Social",
             "altText": "YouTube icon",
-            "url": "/https://www.youtube.com/@BuilSiteCorporation",
+            "url": "https://www.youtube.com/@BuilSiteCorporation",
             "icon": "youtube",
             "elementId": ""
         },
