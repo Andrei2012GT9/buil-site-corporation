@@ -49,7 +49,7 @@
             },
             {
                 "label": "Questions",
-                "url": "/blog",
+                "url": "/Questions",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
