@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >+
-      ## At **Buil Site Corp**, we specialize in creating affordable, modern
+      # At **Buil Site Corp**, we specialize in creating affordable, modern
       websites that bring your ideas to life. Whether you need a professional
       business site or a personal blog, we provide simple and stylish solutions
       at an unbeatable price. Our goal is to make web design accessible to
