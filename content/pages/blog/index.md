@@ -1,16 +1,15 @@
 ---
-title: Blog
+title: Questions
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: In Construction
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    subtitle: ''
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -39,17 +38,4 @@ seo:
   type: Seo
 type: PostFeedLayout
 bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: move-up
 ---
