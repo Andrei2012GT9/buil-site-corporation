@@ -9,7 +9,7 @@
         "links": [
             {
                 "label": "Questions",
-                "url": "/Questions",
+                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
