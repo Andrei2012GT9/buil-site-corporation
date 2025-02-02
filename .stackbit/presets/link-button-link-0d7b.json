@@ -1,0 +1,28 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "button link",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "button"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Questions",
+                "altText": null,
+                "url": "/Questions",
+                "showIcon": null,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": null
+            },
+            "thumbnail": "images/link-button-link-0d7b.png"
+        }
+    ]
+}
