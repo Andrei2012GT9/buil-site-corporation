@@ -14,7 +14,7 @@
         {
             "label": "Questions",
             "altText": "Blog",
-            "url": "/Questions",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
