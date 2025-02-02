@@ -37,7 +37,7 @@
         {
             "type": "Social",
             "altText": "Email icon",
-            "url": "/https://www.instagram.com/buil_site_corporation/",
+            "url": "https://www.instagram.com/buil_site_corporation/",
             "icon": "instagram",
             "elementId": ""
         }
