@@ -48,7 +48,7 @@
             },
             {
                 "type": "Link",
-                "label": "home",
+                "label": "Home",
                 "url": "/home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
