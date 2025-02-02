@@ -8,14 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
-      # At **Buil Site Corp**, we specialize in creating affordable, modern
+    text: >
+      At **Buil Site Corp**, we specialize in creating affordable, modern
       websites that bring your ideas to life. Whether you need a professional
       business site or a personal blog, we provide simple and stylish solutions
       at an unbeatable price. Our goal is to make web design accessible to
       everyone, offering quality websites for just 5 euros. Let us help you
       build your online presence today!
-
     actions:
       - label: Get started
         altText: ''
