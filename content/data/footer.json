@@ -48,7 +48,7 @@
             },
             {
                 "type": "Link",
-                "label": "Questions",
+                "label": "home",
                 "url": "/home",
                 "icon": "arrowRight",
                 "iconPosition": "right",
