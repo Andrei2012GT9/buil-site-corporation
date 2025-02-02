@@ -9,7 +9,7 @@
         "links": [
             {
                 "label": "Questions",
-                "url": "/Questions",
+                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -30,14 +30,14 @@
         {
             "type": "Social",
             "altText": "YouTube icon",
-            "url": "/https://www.youtube.com/@BuilSiteCorporation",
+            "url": "https://www.youtube.com/@BuilSiteCorporation",
             "icon": "youtube",
             "elementId": ""
         },
         {
             "type": "Social",
             "altText": "Email icon",
-            "url": "/https://www.instagram.com/buil_site_corporation/",
+            "url": "https://www.instagram.com/buil_site_corporation/",
             "icon": "instagram",
             "elementId": ""
         }
