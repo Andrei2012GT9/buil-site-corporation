@@ -61,6 +61,13 @@
     },
     "socialLinks": [
         {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "/https://www.youtube.com/@BuilSiteCorporation",
+            "icon": "youtube",
+            "elementId": ""
+        },
+        {
             "altText": "GitHub link",
             "url": "https://github.com/netlify",
             "icon": "github",
