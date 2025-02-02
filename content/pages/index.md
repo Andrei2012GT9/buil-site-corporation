@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Buil Site Corpora
+      text: Buil Site Corporation
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
