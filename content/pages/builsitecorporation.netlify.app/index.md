@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: /home
+slug: builsitecorporation.netlify.app /
 sections:
   - type: GenericSection
     title:
