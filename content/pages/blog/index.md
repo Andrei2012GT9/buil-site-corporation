@@ -1,6 +1,6 @@
 ---
 title: Questions
-slug: /blog
+slug: /Questions
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
