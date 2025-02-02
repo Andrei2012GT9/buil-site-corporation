@@ -66,6 +66,13 @@
             "url": "/https://www.youtube.com/@BuilSiteCorporation",
             "icon": "youtube",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Email icon",
+            "url": "/https://www.instagram.com/buil_site_corporation/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
