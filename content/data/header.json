@@ -29,7 +29,7 @@
                     "type": "Link",
                     "label": "Dropdown item",
                     "altText": "",
-                    "url": "/questions",
+                    "url": "/Questions",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
