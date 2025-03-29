@@ -11,7 +11,7 @@
                 "label": "Questions",
                 "url": "/Questions",
                 "icon": "arrowRight",
-                "iconPosition": "left",
+                "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
