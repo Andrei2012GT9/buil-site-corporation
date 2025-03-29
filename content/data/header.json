@@ -20,7 +20,7 @@
                     "type": "Link",
                     "label": "Dropdown item",
                     "altText": "",
-                    "url": "/blog",
+                    "url": "/Questions",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
